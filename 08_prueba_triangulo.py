@@ -1,4 +1,4 @@
-import triangulo #guardado en el archivo 07_triangulo.py
+import triangulo #guardado en el archivo triangulo.py
 
 a = int(input("lado 1? "))
 b = int(input("lado 2? "))
